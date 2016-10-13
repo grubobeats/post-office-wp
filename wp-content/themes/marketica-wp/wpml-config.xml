@@ -1,0 +1,18 @@
+<wpml-config>
+    <custom-fields>
+        <custom-field action="translate">_tokopress_item_property_details</custom-field>
+    </custom-fields>
+    <admin-texts>
+        <key name="marketica-wp">
+            <key name="tokopress_footer_text" />
+            <key name="tokopress_contact_marker_title" />
+            <key name="tokopress_contact_marker_desc" />
+            <key name="tokopress_wc_items_setup" />
+            <key name="tokopress_wc_license_info" />
+            <key name="tokopress_wc_license_text1" />
+            <key name="tokopress_wc_license_url1" />
+            <key name="tokopress_wc_license_text2" />
+            <key name="tokopress_wc_license_url2" />
+        </key>
+    </admin-texts>
+</wpml-config>

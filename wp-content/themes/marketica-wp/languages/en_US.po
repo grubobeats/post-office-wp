@@ -1,0 +1,3122 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Marketica WP v3.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-02-22 09:30:50+0000\n"
+"Last-Translator: admin <admin@admin.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: comments.php:19
+#@ tokopress
+msgid "Says"
+msgstr ""
+
+#: comments.php:20
+#@ tokopress
+msgid ". Reply"
+msgstr ""
+
+#: comments.php:25
+#@ tokopress
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: block-footer-widget.php:22
+#: block-footer-widget.php:39
+#: block-footer-widget.php:56
+#: block-footer-widget.php:73
+#@ tokopress
+msgid "Widgets Page"
+msgstr ""
+
+#: block-content-title.php:11
+#: block-page-header-inner.php:11
+#: block-page-header-outer.php:11
+#: inc/functions/breadcrumb.php:274
+#: inc/woocommerce/frontend.php:21
+#@ tokopress
+msgid "Home"
+msgstr ""
+
+#: wc-vendors/block-nav.php:11
+#@ tokopress
+msgid "My Shop"
+msgstr ""
+
+#: wc-vendors/block-nav.php:18
+#@ tokopress
+msgid "My Settings"
+msgstr ""
+
+#: wc-vendors/block-nav.php:29
+#@ tokopress
+msgid "Submit a Product"
+msgstr ""
+
+#: block-header.php:78
+#@ tokopress
+msgid "Log Out"
+msgstr ""
+
+#: block-content-title.php:15
+#: block-page-header-inner.php:15
+#: block-page-header-outer.php:15
+#: inc/theme/designs.php:310
+#@ tokopress
+msgid "Blog"
+msgstr ""
+
+#: block-content-title.php:39
+#: block-page-header-inner.php:39
+#: block-page-header-outer.php:39
+#@ tokopress
+msgid "F d, Y"
+msgstr ""
+
+#: block-content-title.php:43
+#: block-page-header-inner.php:43
+#: block-page-header-outer.php:43
+#: inc/functions/breadcrumb.php:1240
+#@ tokopress
+msgid "F Y"
+msgstr ""
+
+#: block-content-title.php:47
+#: block-page-header-inner.php:47
+#: block-page-header-outer.php:47
+#: inc/functions/breadcrumb.php:285
+#: inc/functions/breadcrumb.php:1235
+#: inc/theme/frontend.php:200
+#: inc/theme/frontend.php:206
+#@ tokopress
+msgid "Y"
+msgstr ""
+
+#: block-content-title.php:53
+#: block-page-header-inner.php:53
+#: block-page-header-outer.php:53
+#@ tokopress
+msgid "Projects"
+msgstr ""
+
+#: block-content-title.php:57
+#: block-page-header-inner.php:57
+#: block-page-header-outer.php:57
+#: inc/theme/frontend.php:209
+#@ tokopress
+msgid "Shop"
+msgstr ""
+
+#: block-content-title.php:61
+#: block-page-header-inner.php:61
+#: block-page-header-outer.php:61
+#: inc/functions/breadcrumb.php:278
+#@ tokopress
+msgid "Archives"
+msgstr ""
+
+#: block-content-title.php:75
+#: block-page-header-inner.php:75
+#: block-page-header-outer.php:75
+#: dokan/store-reviews.php:42
+#@ tokopress
+msgid "No Result Found"
+msgstr ""
+
+#: content-404.php:9
+#@ tokopress
+msgid "Nothing Found"
+msgstr ""
+
+#: content-404.php:10
+#@ tokopress
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: block-entry-meta.php:8
+#@ tokopress
+msgid "writen by"
+msgstr ""
+
+#: block-entry-meta.php:16
+#@ tokopress
+msgid "Filed Under"
+msgstr ""
+
+#: content-page.php:15
+#@ tokopress
+msgid "Pages:"
+msgstr ""
+
+#: comments.php:64
+#@ tokopress
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:70
+#@ tokopress
+msgid "Name"
+msgstr ""
+
+#: comments.php:71
+#@ tokopress
+msgid "Email"
+msgstr ""
+
+#: comments.php:72
+#@ tokopress
+msgid "Website"
+msgstr ""
+
+#: comments.php:76
+#@ tokopress
+msgid "post your comment here!"
+msgstr ""
+
+#: comments.php:78
+#@ tokopress
+msgid "Post comment"
+msgstr ""
+
+#: functions.php:75
+#@ tokopress
+msgid "Main Widget"
+msgstr ""
+
+#: functions.php:77
+#@ tokopress
+msgid "Widgets in this area will be shown in Main sidebar(right content)."
+msgstr ""
+
+#: functions.php:89
+#: functions.php:100
+#: functions.php:111
+#: functions.php:122
+#@ tokopress
+msgid "Widgets in this area will be shown in Footer Widget."
+msgstr ""
+
+#: functions.php:187
+#@ tokopress
+msgid "Phone Number"
+msgstr ""
+
+#: functions.php:188
+#@ tokopress
+msgid "Facebook Profile URL"
+msgstr ""
+
+#: functions.php:190
+#@ tokopress
+msgid "Twitter Profile URL"
+msgstr ""
+
+#: functions.php:189
+#@ tokopress
+msgid "Google Plus Profil URL"
+msgstr ""
+
+#: inc/option-framework/includes/class-options-media-uploader.php:68
+#: inc/option-framework/includes/class-options-media-uploader.php:120
+#@ tokopress
+msgid "Remove"
+msgstr ""
+
+#: inc/customizer/customizer-framework.php:41
+#@ tokopress
+msgid "General Colors"
+msgstr ""
+
+#: inc/functions/breadcrumb.php:273
+#@ tokopress
+msgid "Browse:"
+msgstr ""
+
+#: inc/functions/breadcrumb.php:275
+#, php-format
+#@ tokopress
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: inc/functions/breadcrumb.php:276
+#@ tokopress
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/functions/breadcrumb.php:277
+#, php-format
+#@ tokopress
+msgid "Page %d"
+msgstr ""
+
+#: inc/functions/breadcrumb.php:279
+#: inc/theme/frontend.php:188
+#@ tokopress
+msgid "g:i a"
+msgstr ""
+
+#: inc/functions/breadcrumb.php:280
+#, php-format
+#@ tokopress
+msgid "Minute %d"
+msgstr ""
+
+#: inc/functions/breadcrumb.php:281
+#: inc/theme/frontend.php:194
+#@ tokopress
+msgid "g a"
+msgstr ""
+
+#: inc/functions/breadcrumb.php:282
+#@ tokopress
+msgid "d"
+msgstr ""
+
+#: inc/functions/breadcrumb.php:283
+#, php-format
+#@ tokopress
+msgid "Week %d"
+msgstr ""
+
+#: inc/functions/breadcrumb.php:284
+#@ tokopress
+msgid "F"
+msgstr ""
+
+#: inc/functions/breadcrumb.php:1245
+#@ tokopress
+msgid "F j, Y"
+msgstr ""
+
+#: inc/functions/breadcrumb.php:1340
+#: inc/functions/breadcrumb.php:1376
+#: inc/functions/breadcrumb.php:1393
+#: inc/functions/breadcrumb.php:1424
+#@ tokopress
+msgid "Edit"
+msgstr ""
+
+#: inc/functions/breadcrumb.php:1368
+#@ tokopress
+msgid "Split"
+msgstr ""
+
+#: inc/functions/breadcrumb.php:1372
+#@ tokopress
+msgid "Merge"
+msgstr ""
+
+#: inc/functions/contact-form.php:15
+#@ tokopress
+msgid "Message via the contact form"
+msgstr ""
+
+#: inc/functions/contact-form.php:19
+#@ tokopress
+msgid "Submit"
+msgstr ""
+
+#: inc/functions/contact-form.php:45
+#@ tokopress
+msgid "Please enter your name"
+msgstr ""
+
+#: inc/functions/contact-form.php:49
+#@ tokopress
+msgid "Please enter your email address (and please make sure it's valid)"
+msgstr ""
+
+#: inc/functions/contact-form.php:53
+#@ tokopress
+msgid "Please enter your message"
+msgstr ""
+
+#: inc/functions/contact-form.php:58
+#@ tokopress
+msgid "Your answer was wrong!"
+msgstr ""
+
+#: inc/functions/contact-form.php:61
+#@ tokopress
+msgid "Please enter your answer"
+msgstr ""
+
+#: inc/functions/contact-form.php:65
+#@ tokopress
+msgid "There were one or more errors while submitting the form."
+msgstr ""
+
+#: inc/functions/contact-form.php:84
+#: inc/widget/widget_social.php:200
+#@ tokopress
+msgid "Email:"
+msgstr ""
+
+#: inc/functions/contact-form.php:85
+#@ tokopress
+msgid "Name:"
+msgstr ""
+
+#: inc/functions/contact-form.php:86
+#@ tokopress
+msgid "IP Address:"
+msgstr ""
+
+#: inc/functions/contact-form.php:86
+#@ tokopress
+msgid "User Agent:"
+msgstr ""
+
+#: inc/functions/contact-form.php:96
+#@ tokopress
+msgid "[COPY]"
+msgstr ""
+
+#: inc/functions/contact-form.php:105
+#@ tokopress
+msgid "Your email was successfully sent."
+msgstr ""
+
+#: inc/functions/contact-form.php:108
+#@ tokopress
+msgid "There were technical error while submitting the form. Sorry for the inconvenience."
+msgstr ""
+
+#: inc/functions/contact-form.php:122
+#@ tokopress
+msgid "E-mail has not been setup properly. Please add your contact e-mail!"
+msgstr ""
+
+#: inc/functions/contact-form.php:136
+#@ tokopress
+msgid "Your Name"
+msgstr ""
+
+#: inc/functions/contact-form.php:143
+#@ tokopress
+msgid "Your Email"
+msgstr ""
+
+#: inc/functions/contact-form.php:152
+#@ tokopress
+msgid "Your Message"
+msgstr ""
+
+#: inc/functions/contact-form.php:162
+#@ tokopress
+msgid "Your Answer"
+msgstr ""
+
+#: inc/functions/contact-form.php:175
+#@ tokopress
+msgid "Send a copy of this email to you"
+msgstr ""
+
+#: inc/functions/contact-form.php:185
+#@ tokopress
+msgid "If you want to submit this form, do not enter anything in this field"
+msgstr ""
+
+#: inc/option-framework/includes/class-options-framework-admin.php:90
+#: inc/option-framework/includes/class-options-framework-admin.php:91
+#@ tokopress
+msgid "Theme Options"
+msgstr ""
+
+#: inc/option-framework/includes/class-options-framework-admin.php:197
+#@ tokopress
+msgid "Save Options"
+msgstr ""
+
+#: inc/option-framework/includes/class-options-framework-admin.php:198
+#@ tokopress
+msgid "Restore Defaults"
+msgstr ""
+
+#: inc/option-framework/includes/class-options-framework-admin.php:198
+#@ tokopress
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: inc/option-framework/includes/class-options-framework-admin.php:229
+#@ tokopress
+msgid "Default options restored."
+msgstr ""
+
+#: inc/option-framework/includes/class-options-framework-admin.php:283
+#@ tokopress
+msgid "Options saved."
+msgstr ""
+
+#: inc/option-framework/includes/class-options-media-uploader.php:63
+#@ tokopress
+msgid "No file chosen"
+msgstr ""
+
+#: inc/option-framework/includes/class-options-media-uploader.php:66
+#: inc/option-framework/includes/class-options-media-uploader.php:119
+#@ tokopress
+msgid "Upload"
+msgstr ""
+
+#: inc/option-framework/includes/class-options-media-uploader.php:71
+#@ tokopress
+msgid "Upgrade your version of WordPress for full media support."
+msgstr ""
+
+#: inc/option-framework/includes/class-options-media-uploader.php:95
+#@ tokopress
+msgid "View File"
+msgstr ""
+
+#: inc/option-framework/includes/class-options-sanitization.php:316
+#@ tokopress
+msgid "No Repeat"
+msgstr ""
+
+#: inc/option-framework/includes/class-options-sanitization.php:317
+#@ tokopress
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/option-framework/includes/class-options-sanitization.php:318
+#@ tokopress
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/option-framework/includes/class-options-sanitization.php:319
+#@ tokopress
+msgid "Repeat All"
+msgstr ""
+
+#: inc/option-framework/includes/class-options-sanitization.php:331
+#@ tokopress
+msgid "Top Left"
+msgstr ""
+
+#: inc/option-framework/includes/class-options-sanitization.php:332
+#@ tokopress
+msgid "Top Center"
+msgstr ""
+
+#: inc/option-framework/includes/class-options-sanitization.php:333
+#@ tokopress
+msgid "Top Right"
+msgstr ""
+
+#: inc/option-framework/includes/class-options-sanitization.php:334
+#@ tokopress
+msgid "Middle Left"
+msgstr ""
+
+#: inc/option-framework/includes/class-options-sanitization.php:335
+#@ tokopress
+msgid "Middle Center"
+msgstr ""
+
+#: inc/option-framework/includes/class-options-sanitization.php:336
+#@ tokopress
+msgid "Middle Right"
+msgstr ""
+
+#: inc/option-framework/includes/class-options-sanitization.php:337
+#@ tokopress
+msgid "Bottom Left"
+msgstr ""
+
+#: inc/option-framework/includes/class-options-sanitization.php:338
+#@ tokopress
+msgid "Bottom Center"
+msgstr ""
+
+#: inc/option-framework/includes/class-options-sanitization.php:339
+#@ tokopress
+msgid "Bottom Right"
+msgstr ""
+
+#: inc/option-framework/includes/class-options-sanitization.php:351
+#@ tokopress
+msgid "Scroll Normally"
+msgstr ""
+
+#: inc/option-framework/includes/class-options-sanitization.php:352
+#@ tokopress
+msgid "Fixed in Place"
+msgstr ""
+
+#: inc/option-framework/includes/class-options-sanitization.php:424
+#@ tokopress
+msgid "Normal"
+msgstr ""
+
+#: inc/option-framework/includes/class-options-sanitization.php:425
+#@ tokopress
+msgid "Italic"
+msgstr ""
+
+#: inc/option-framework/includes/class-options-sanitization.php:426
+#@ tokopress
+msgid "Bold"
+msgstr ""
+
+#: inc/option-framework/includes/class-options-sanitization.php:427
+#@ tokopress
+msgid "Bold Italic"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:333
+#@ tokopress
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:334
+#@ tokopress
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:335
+#, php-format
+#@ tokopress
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:338
+#, php-format
+#@ tokopress
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:343
+#, php-format
+#@ tokopress
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:368
+#, php-format
+#@ tokopress
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:373
+#, php-format
+#@ tokopress
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:353
+#, php-format
+#@ tokopress
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:383
+#@ tokopress
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:393
+#@ tokopress
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:397
+#@ tokopress
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:398
+#@ tokopress
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:399
+#: inc/tgm/class-tgm-plugin-activation.php:3030
+#@ tokopress
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:403
+#, php-format
+#@ tokopress
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:404
+#@ tokopress
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:829
+#: inc/tgm/class-tgm-plugin-activation.php:3439
+#@ tokopress
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2193
+#@ tokopress
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2187
+#@ tokopress
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2168
+#@ tokopress
+msgid "Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2171
+#@ tokopress
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2210
+#@ tokopress
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2214
+#@ tokopress
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2604
+#@ tokopress
+msgid "Install"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2613
+#@ tokopress
+msgid "Activate"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2437
+#@ tokopress
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2438
+#@ tokopress
+msgid "Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2439
+#@ tokopress
+msgid "Type"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2444
+#@ tokopress
+msgid "Status"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2682
+#@ tokopress
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2815
+#@ tokopress
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: inc/tgm/class-tgm-plugin-activation.php:2833
+#: inc/tgm/class-tgm-plugin-activation.php:400
+#@ tokopress
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3029
+#@ tokopress
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3370
+#@ tokopress
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3371
+#, php-format
+#@ tokopress
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3371
+#: inc/tgm/class-tgm-plugin-activation.php:3377
+#@ tokopress
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3371
+#: inc/tgm/class-tgm-plugin-activation.php:3377
+#@ tokopress
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3372
+#@ tokopress
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3373
+#, php-format
+#@ tokopress
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3376
+#@ tokopress
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3365
+#, php-format
+#@ tokopress
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3366
+#, php-format
+#@ tokopress
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3377
+#, php-format
+#@ tokopress
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3378
+#@ tokopress
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3379
+#, php-format
+#@ tokopress
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/theme/designs.php:93
+#@ tokopress
+msgid "Header Background"
+msgstr ""
+
+#: inc/theme/designs.php:104
+#@ tokopress
+msgid "Logo Background"
+msgstr ""
+
+#: inc/theme/designs.php:224
+#@ tokopress
+msgid "Page Title Background"
+msgstr ""
+
+#: inc/theme/designs.php:235
+#@ tokopress
+msgid "Page Title Color"
+msgstr ""
+
+#: inc/theme/designs.php:250
+#@ tokopress
+msgid "Breadcrumb Color"
+msgstr ""
+
+#: inc/theme/designs.php:261
+#@ tokopress
+msgid "Breadcrumb Link Color"
+msgstr ""
+
+#: inc/theme/designs.php:272
+#@ tokopress
+msgid "Breadcrumb Separator Color"
+msgstr ""
+
+#: inc/theme/designs.php:501
+#: inc/theme/options.php:211
+#@ tokopress
+msgid "Footer Widget"
+msgstr ""
+
+#: inc/theme/designs.php:514
+#@ tokopress
+msgid "Footer Widget Background"
+msgstr ""
+
+#: inc/theme/designs.php:525
+#@ tokopress
+msgid "Footer Widget Color"
+msgstr ""
+
+#: inc/theme/designs.php:537
+#@ tokopress
+msgid "Footer Widget Link Color"
+msgstr ""
+
+#: inc/theme/designs.php:548
+#@ tokopress
+msgid "Footer Widget Title Color"
+msgstr ""
+
+#: inc/theme/designs.php:559
+#@ tokopress
+msgid "Footer Widget Border Separator Color"
+msgstr ""
+
+#: inc/theme/designs.php:570
+#@ tokopress
+msgid "Footer Widget Border Top Color"
+msgstr ""
+
+#: inc/theme/designs.php:587
+#: inc/theme/options.php:219
+#@ tokopress
+msgid "Footer Credit"
+msgstr ""
+
+#: inc/theme/designs.php:600
+#@ tokopress
+msgid "Footer Credit Background"
+msgstr ""
+
+#: inc/theme/designs.php:611
+#@ tokopress
+msgid "Footer Credit Color"
+msgstr ""
+
+#: inc/theme/designs.php:622
+#@ tokopress
+msgid "Footer Credit Link Color"
+msgstr ""
+
+#: inc/theme/frontend.php:154
+#: woocommerce/loop/pagination.php:24
+#@ tokopress
+msgid "Previous"
+msgstr ""
+
+#: inc/theme/frontend.php:155
+#: woocommerce/loop/pagination.php:25
+#@ tokopress
+msgid "Next"
+msgstr ""
+
+#: inc/theme/frontend.php:179
+#@ tokopress
+msgid "404 - Not Found"
+msgstr ""
+
+#: inc/theme/frontend.php:181
+#, php-format
+#@ tokopress
+msgid "Search Results for \"%1$s\""
+msgstr ""
+
+#: inc/theme/frontend.php:188
+#: inc/theme/frontend.php:194
+#: inc/theme/frontend.php:197
+#: inc/theme/frontend.php:203
+#: inc/theme/frontend.php:206
+#, php-format
+#@ tokopress
+msgid "Archive for %1$s"
+msgstr ""
+
+#: inc/theme/frontend.php:191
+#, php-format
+#@ tokopress
+msgid "Archive for minute %1$s"
+msgstr ""
+
+#: inc/theme/frontend.php:191
+#@ tokopress
+msgid "i"
+msgstr ""
+
+#: inc/theme/frontend.php:197
+#@ tokopress
+msgid "F jS, Y"
+msgstr ""
+
+#: inc/theme/frontend.php:200
+#, php-format
+#@ tokopress
+msgid "Archive for week %1$s of %2$s"
+msgstr ""
+
+#: inc/theme/frontend.php:200
+#@ tokopress
+msgid "W"
+msgstr ""
+
+#: inc/theme/frontend.php:224
+#, php-format
+#@ tokopress
+msgid "- Page %s"
+msgstr ""
+
+#: inc/theme/designs.php:27
+#: inc/theme/options.php:94
+#@ tokopress
+msgid "Header"
+msgstr ""
+
+#: inc/theme/options.php:132
+#@ tokopress
+msgid "Site Logo"
+msgstr ""
+
+#: inc/theme/options.php:261
+#@ tokopress
+msgid "DISABLE Map"
+msgstr ""
+
+#: inc/theme/options.php:262
+#@ tokopress
+msgid "DISABLE map from contact"
+msgstr ""
+
+#: inc/theme/options.php:269
+#@ tokopress
+msgid "Latitude"
+msgstr ""
+
+#: inc/theme/options.php:270
+#@ tokopress
+msgid "Insert map Latitude koordinat"
+msgstr ""
+
+#: inc/theme/options.php:276
+#@ tokopress
+msgid "Longitude"
+msgstr ""
+
+#: inc/theme/options.php:277
+#@ tokopress
+msgid "Insert map Longitude koordinat"
+msgstr ""
+
+#: inc/theme/options.php:283
+#@ tokopress
+msgid "Marker Title"
+msgstr ""
+
+#: inc/theme/options.php:284
+#@ tokopress
+msgid "Insert marker title"
+msgstr ""
+
+#: inc/theme/options.php:290
+#@ tokopress
+msgid "Marker Description"
+msgstr ""
+
+#: inc/theme/options.php:291
+#@ tokopress
+msgid "Insert marker description"
+msgstr ""
+
+#: inc/theme/designs.php:487
+#: inc/theme/options.php:201
+#@ tokopress
+msgid "Footer"
+msgstr ""
+
+#: inc/theme/options.php:212
+#@ tokopress
+msgid "DISABLE footer widget"
+msgstr ""
+
+#: inc/theme/options.php:220
+#@ tokopress
+msgid "DISABLE footer credit"
+msgstr ""
+
+#: inc/theme/options.php:227
+#@ tokopress
+msgid "Footer Credit Text"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:336
+#@ tokopress
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/widget/widget_social.php:20
+#@ tokopress
+msgid "A custom widget to display the social network icons."
+msgstr ""
+
+#: inc/widget/widget_social.php:23
+#@ tokopress
+msgid "Tokopress - Social Connect"
+msgstr ""
+
+#: inc/widget/widget_social.php:191
+#: inc/widget/widget_statistic.php:98
+#: inc/widget/widget_subscribe.php:46
+#@ tokopress
+msgid "Title:"
+msgstr ""
+
+#: inc/widget/widget_social.php:196
+#@ tokopress
+msgid "Rss URL:"
+msgstr ""
+
+#: inc/widget/widget_social.php:204
+#@ tokopress
+msgid "Twitter Username:"
+msgstr ""
+
+#: inc/widget/widget_social.php:208
+#@ tokopress
+msgid "Facebook Username:"
+msgstr ""
+
+#: inc/widget/widget_social.php:212
+#@ tokopress
+msgid "Google Plus Username:"
+msgstr ""
+
+#: inc/widget/widget_social.php:216
+#@ tokopress
+msgid "Youtube Username:"
+msgstr ""
+
+#: inc/widget/widget_social.php:224
+#@ tokopress
+msgid "Flickr Username:"
+msgstr ""
+
+#: inc/widget/widget_social.php:228
+#@ tokopress
+msgid "Linkedin Username:"
+msgstr ""
+
+#: inc/widget/widget_social.php:232
+#@ tokopress
+msgid "Pinterest Username:"
+msgstr ""
+
+#: inc/widget/widget_social.php:237
+#@ tokopress
+msgid "Dribbble Username:"
+msgstr ""
+
+#: inc/widget/widget_social.php:241
+#@ tokopress
+msgid "Github Username:"
+msgstr ""
+
+#: inc/widget/widget_social.php:245
+#@ tokopress
+msgid "Last FM Username:"
+msgstr ""
+
+#: inc/widget/widget_social.php:250
+#@ tokopress
+msgid "Vimeo Username:"
+msgstr ""
+
+#: inc/widget/widget_social.php:254
+#@ tokopress
+msgid "Tumblr Username:"
+msgstr ""
+
+#: inc/widget/widget_social.php:258
+#@ tokopress
+msgid "Instagram Username:"
+msgstr ""
+
+#: inc/widget/widget_social.php:262
+#@ tokopress
+msgid "Soundcloud Username:"
+msgstr ""
+
+#: inc/widget/widget_social.php:266
+#@ tokopress
+msgid "Behance Username:"
+msgstr ""
+
+#: inc/widget/widget_social.php:270
+#@ tokopress
+msgid "Deviantart Username:"
+msgstr ""
+
+#: inc/widget/widget_statistic.php:16
+#@ tokopress
+msgid "Tokopress - Statistic Product and Users"
+msgstr ""
+
+#: inc/widget/widget_statistic.php:17
+#@ tokopress
+msgid "Display statistic product and users"
+msgstr ""
+
+#: inc/widget/widget_statistic.php:69
+#@ tokopress
+msgid "Marketplace Items"
+msgstr ""
+
+#: inc/widget/widget_statistic.php:40
+#@ tokopress
+msgid "Marketplace Members"
+msgstr ""
+
+#: inc/widget/widget_statistic.php:94
+#@ tokopress
+msgid "Statistics"
+msgstr ""
+
+#: inc/widget/widget_subscribe.php:20
+#@ tokopress
+msgid "Tokopress - Subscribe Form"
+msgstr ""
+
+#: inc/widget/widget_subscribe.php:21
+#@ tokopress
+msgid "Displays your custom MailChimp for WordPress sign-up form"
+msgstr ""
+
+#: inc/widget/widget_subscribe.php:42
+#@ tokopress
+msgid "Newsletter"
+msgstr ""
+
+#: inc/widget/widget_subscribe.php:50
+#@ tokopress
+msgid "Form Description"
+msgstr ""
+
+#: inc/widget/widget_subscribe.php:54
+#, php-format
+#@ tokopress
+msgid "You can edit your sign-up form in the %sMailChimp for WordPress form settings%s."
+msgstr ""
+
+#: inc/woocommerce/designs.php:99
+#@ tokopress
+msgid "Catalog Ordering Background"
+msgstr ""
+
+#: inc/woocommerce/designs.php:110
+#@ tokopress
+msgid "Catalog Ordering Color"
+msgstr ""
+
+#: inc/woocommerce/designs.php:125
+#@ tokopress
+msgid "Sale Flash Background"
+msgstr ""
+
+#: inc/woocommerce/designs.php:136
+#@ tokopress
+msgid "Sale Flash Color"
+msgstr ""
+
+#: inc/woocommerce/designs.php:151
+#@ tokopress
+msgid "Product Background"
+msgstr ""
+
+#: inc/woocommerce/designs.php:162
+#@ tokopress
+msgid "Product Separator"
+msgstr ""
+
+#: inc/woocommerce/designs.php:173
+#@ tokopress
+msgid "Product Color"
+msgstr ""
+
+#: inc/woocommerce/designs.php:184
+#@ tokopress
+msgid "Product Title Color"
+msgstr ""
+
+#: inc/woocommerce/designs.php:195
+#: inc/woocommerce/designs.php:303
+#@ tokopress
+msgid "Product Price Color"
+msgstr ""
+
+#: inc/woocommerce/designs.php:206
+#@ tokopress
+msgid "Product Old Price Color"
+msgstr ""
+
+#: inc/woocommerce/designs.php:228
+#@ tokopress
+msgid "Product Caption Background"
+msgstr ""
+
+#: inc/woocommerce/options.php:149
+#@ tokopress
+msgid "Product Rating"
+msgstr ""
+
+#: inc/woocommerce/options.php:156
+#@ tokopress
+msgid "Product Price"
+msgstr ""
+
+#: inc/woocommerce/designs.php:365
+#: inc/woocommerce/designs.php:417
+#: inc/woocommerce/designs.php:469
+#@ tokopress
+msgid "Title Background Color"
+msgstr ""
+
+#: inc/woocommerce/designs.php:376
+#: inc/woocommerce/designs.php:428
+#: inc/woocommerce/designs.php:480
+#@ tokopress
+msgid "Title Color"
+msgstr ""
+
+#: inc/woocommerce/designs.php:387
+#: inc/woocommerce/designs.php:439
+#: inc/woocommerce/designs.php:491
+#@ tokopress
+msgid "Title Border Color"
+msgstr ""
+
+#: inc/woocommerce/frontend.php:103
+#: woocommerce/content-product-alt.php:57
+#@ tokopress
+msgid "detail"
+msgstr ""
+
+#: inc/woocommerce/frontend.php:240
+#@ tokopress
+msgid "Item Details"
+msgstr ""
+
+#: inc/woocommerce/designs.php:14
+#: inc/woocommerce/options.php:8
+#@ tokopress
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/woocommerce/options.php:58
+#@ tokopress
+msgid "Products Per Page"
+msgstr ""
+
+#: inc/woocommerce/options.php:65
+#@ tokopress
+msgid "Products Column Per Row"
+msgstr ""
+
+#: inc/woocommerce/options.php:83
+#@ tokopress
+msgid "Products Sale Flash"
+msgstr ""
+
+#: inc/woocommerce/options.php:90
+#@ tokopress
+msgid "Products Title"
+msgstr ""
+
+#: inc/woocommerce/options.php:104
+#@ tokopress
+msgid "Products Price"
+msgstr ""
+
+#: inc/woocommerce/options.php:111
+#@ tokopress
+msgid "Products \"Add To Cart\" Button"
+msgstr ""
+
+#: inc/woocommerce/options.php:112
+#@ tokopress
+msgid "DISABLE products \"add to cart\" button"
+msgstr ""
+
+#: inc/woocommerce/options.php:51
+#@ tokopress
+msgid "Catalog Ordering"
+msgstr ""
+
+#: inc/woocommerce/options.php:52
+#@ tokopress
+msgid "DISABLE catalog ordering dropdown"
+msgstr ""
+
+#: inc/woocommerce/options.php:142
+#@ tokopress
+msgid "Product Sale Flash"
+msgstr ""
+
+#: inc/woocommerce/options.php:170
+#@ tokopress
+msgid "Product \"Add To Cart\" Button"
+msgstr ""
+
+#: inc/woocommerce/options.php:171
+#@ tokopress
+msgid "DISABLE product \"add to cart\" button"
+msgstr ""
+
+#: inc/woocommerce/options.php:224
+#: woocommerce/single-product/related.php:40
+#@ tokopress
+msgid "Related Products"
+msgstr ""
+
+#: inc/woocommerce/options.php:225
+#@ tokopress
+msgid "DISABLE related products on single product page"
+msgstr ""
+
+#: inc/woocommerce/options.php:231
+#@ tokopress
+msgid "Number of Related Products"
+msgstr ""
+
+#: inc/woocommerce/options.php:258
+#@ tokopress
+msgid "Up-Sells"
+msgstr ""
+
+#: inc/woocommerce/options.php:259
+#@ tokopress
+msgid "DISABLE up-sells products on single product page"
+msgstr ""
+
+#: inc/woocommerce/options.php:265
+#@ tokopress
+msgid "Number of Up-Sells Products"
+msgstr ""
+
+#: inc/woocommerce/options.php:292
+#@ tokopress
+msgid "Cross-Sells"
+msgstr ""
+
+#: inc/woocommerce/options.php:293
+#@ tokopress
+msgid "DISABLE Cross-sells products on cart page"
+msgstr ""
+
+#: author.php:68
+#, php-format
+#@ tokopress
+msgid "%s does not have personal biography."
+msgstr ""
+
+#: block-header.php:67
+#@ tokopress
+msgid "My Account"
+msgstr ""
+
+#: block-header.php:86
+#: block-header.php:93
+#@ tokopress
+msgid "Log In"
+msgstr ""
+
+#: dokan/block-more-products.php:36
+#: sociovendors/block-more-products.php:45
+#: wc-vendors/block-more-products.php:41
+#: woovendors/block-more-products.php:45
+#@ tokopress
+msgid "More from this seller&hellip;"
+msgstr ""
+
+#: wc-vendors/block-nav.php:4
+#@ tokopress
+msgid "My Dashboard"
+msgstr ""
+
+#: block-search-product.php:8
+#: block-search.php:8
+#@ tokopress
+msgctxt "placeholder"
+msgid "type here and hit enter &hellip;"
+msgstr ""
+
+#: block-search-product.php:8
+#: block-search.php:8
+#@ tokopress
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: comments.php:45
+#@ tokopress
+msgid "No Comment"
+msgstr ""
+
+#: comments.php:45
+#@ tokopress
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:45
+#@ tokopress
+msgid "% Comments"
+msgstr ""
+
+#: functions.php:69
+#@ tokopress
+msgid "Primary Menu - Header"
+msgstr ""
+
+#: functions.php:70
+#@ tokopress
+msgid "Secondary Menu - Below Header"
+msgstr ""
+
+#: inc/functions/contact-form.php:14
+#@ tokopress
+msgid "Leave a message"
+msgstr ""
+
+#. gettext fix: duplicate plural forms found, that may be ambiguous! Please check the code!
+#: inc/tgm/class-tgm-plugin-activation.php:388
+#@ tokopress
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugin"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2216
+#@ tokopress
+msgid "Active"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2610
+#@ tokopress
+msgid "Update"
+msgstr ""
+
+#: inc/theme/options.php:127
+#@ tokopress
+msgid "Header Section"
+msgstr ""
+
+#: inc/theme/options.php:138
+#@ tokopress
+msgid "Search"
+msgstr ""
+
+#: inc/theme/options.php:139
+#@ tokopress
+msgid "DISABLE search"
+msgstr ""
+
+#: inc/theme/options.php:146
+#@ tokopress
+msgid "Account Navigation"
+msgstr ""
+
+#: inc/theme/options.php:147
+#@ tokopress
+msgid "DISABLE account dropdown navigation"
+msgstr ""
+
+#: inc/theme/options.php:154
+#@ tokopress
+msgid "Cart Link"
+msgstr ""
+
+#: inc/theme/options.php:155
+#@ tokopress
+msgid "DISABLE cart link"
+msgstr ""
+
+#: inc/theme/options.php:179
+#@ tokopress
+msgid "Header Scripts"
+msgstr ""
+
+#: inc/theme/options.php:184
+#@ tokopress
+msgid "Header Script"
+msgstr ""
+
+#: inc/theme/options.php:185
+#: inc/theme/options.php:241
+#@ tokopress
+msgid "You can put any script here, for example your Google Analytics scripts."
+msgstr ""
+
+#: inc/theme/options.php:206
+#@ tokopress
+msgid "Footer Section"
+msgstr ""
+
+#: inc/theme/options.php:235
+#@ tokopress
+msgid "Footer Scripts"
+msgstr ""
+
+#: inc/theme/options.php:240
+#@ tokopress
+msgid "Footer Script"
+msgstr ""
+
+#: inc/theme/options.php:256
+#@ tokopress
+msgid "Contact Template"
+msgstr ""
+
+#: inc/widget/widget_statistic.php:76
+#@ tokopress
+msgid "Posts"
+msgstr ""
+
+#: inc/woocommerce/metabox.php:7
+#@ tokopress
+msgid "Product Item Details"
+msgstr ""
+
+#: inc/woocommerce/options.php:13
+#@ tokopress
+msgid "Redirect URL After Customer Login"
+msgstr ""
+
+#: inc/woocommerce/options.php:21
+#@ tokopress
+msgid "WooCommerce - Shop Display Options"
+msgstr ""
+
+#: inc/woocommerce/options.php:84
+#@ tokopress
+msgid "DISABLE products sale flash"
+msgstr ""
+
+#: inc/woocommerce/options.php:91
+#@ tokopress
+msgid "HIDE products title"
+msgstr ""
+
+#: inc/woocommerce/options.php:97
+#@ tokopress
+msgid "Products Rating"
+msgstr ""
+
+#: inc/woocommerce/options.php:98
+#@ tokopress
+msgid "DISABLE products rating"
+msgstr ""
+
+#: inc/woocommerce/options.php:105
+#@ tokopress
+msgid "DISABLE products price"
+msgstr ""
+
+#: inc/woocommerce/options.php:119
+#@ tokopress
+msgid "WooCommerce - Single Product Options"
+msgstr ""
+
+#: inc/woocommerce/options.php:143
+#@ tokopress
+msgid "DISABLE product sale flash"
+msgstr ""
+
+#: inc/woocommerce/options.php:150
+#@ tokopress
+msgid "DISABLE product rating"
+msgstr ""
+
+#: inc/woocommerce/options.php:157
+#@ tokopress
+msgid "DISABLE product price"
+msgstr ""
+
+#: inc/woocommerce/options.php:163
+#@ tokopress
+msgid "Product Short Description"
+msgstr ""
+
+#: inc/woocommerce/options.php:164
+#@ tokopress
+msgid "DISABLE product short description"
+msgstr ""
+
+#: inc/woocommerce/options.php:300
+#: inc/woocommerce/options.php:305
+#@ tokopress
+msgid "License Information"
+msgstr ""
+
+#: inc/woocommerce/options.php:306
+#@ tokopress
+msgid "SHOW license information on single product page"
+msgstr ""
+
+#: inc/woocommerce/options.php:313
+#@ tokopress
+msgid "License Information Summary"
+msgstr ""
+
+#: inc/woocommerce/options.php:314
+#@ tokopress
+msgid "Use, by you or one client, in a single end product which end users are not charged for. The total price includes the item price and a buyer fee."
+msgstr ""
+
+#: inc/woocommerce/options.php:320
+#@ tokopress
+msgid "License Link Text #1"
+msgstr ""
+
+#: inc/woocommerce/options.php:323
+#@ tokopress
+msgid "More Details"
+msgstr ""
+
+#: inc/woocommerce/options.php:328
+#@ tokopress
+msgid "License Link URL #1"
+msgstr ""
+
+#: inc/woocommerce/options.php:335
+#@ tokopress
+msgid "License Link Text #2"
+msgstr ""
+
+#: inc/woocommerce/options.php:342
+#@ tokopress
+msgid "License Link URL #2"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:301
+#@ tokopress
+msgid "Seller info"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:331
+#, php-format
+#@ tokopress
+msgid "Visit &quot;%s&quot; Shop"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:332
+#: inc/woocommerce/plugin-wcvendors.php:370
+#@ tokopress
+msgid "Contact this seller"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:385
+#, php-format
+#@ tokopress
+msgid "%s is a seller on &quot;%s&quot; shop."
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:386
+#, php-format
+#@ tokopress
+msgid "Visit &quot;%s&quot;"
+msgstr ""
+
+#: wc-vendors/dashboard/links.php:1
+#@ tokopress
+msgid "Control Center"
+msgstr ""
+
+#: wc-vendors/dashboard/links.php:4
+#@ tokopress
+msgid "My shop"
+msgstr ""
+
+#: wc-vendors/dashboard/links.php:5
+#@ tokopress
+msgid "My settings"
+msgstr ""
+
+#: wc-vendors/dashboard/links.php:10
+#@ tokopress
+msgid "Submit a product"
+msgstr ""
+
+#: woocommerce/block-top-content.php:21
+#@ tokopress
+msgid "Sort by"
+msgstr ""
+
+#: woocommerce/loop/rating.php:23
+#, php-format
+#@ tokopress
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: dokan/store-reviews.php:62
+#: woocommerce/loop/rating.php:24
+#@ tokopress
+msgid "out of 5"
+msgstr ""
+
+#: inc/theme/designs.php:9
+#@ tokopress
+msgid "Background"
+msgstr ""
+
+#: inc/theme/designs.php:13
+#@ tokopress
+msgid "Header (Page Title)"
+msgstr ""
+
+#: inc/theme/designs.php:80
+#@ tokopress
+msgid "Header (Top)"
+msgstr ""
+
+#: inc/theme/designs.php:115
+#@ tokopress
+msgid "Primary Menu (Header Menu) Color"
+msgstr ""
+
+#: inc/theme/designs.php:126
+#@ tokopress
+msgid "Primary Menu (Header Menu) Hover Color"
+msgstr ""
+
+#: inc/theme/designs.php:137
+#@ tokopress
+msgid "Cart Link - Background"
+msgstr ""
+
+#: inc/theme/designs.php:148
+#@ tokopress
+msgid "Cart Link - Icon Color"
+msgstr ""
+
+#: inc/theme/designs.php:159
+#@ tokopress
+msgid "Cart Link - Text Color"
+msgstr ""
+
+#: inc/theme/designs.php:170
+#@ tokopress
+msgid "Secondary Menu (Below Header) Background"
+msgstr ""
+
+#: inc/theme/designs.php:183
+#@ tokopress
+msgid "Secondary Menu (Below Header) Color"
+msgstr ""
+
+#: inc/theme/designs.php:194
+#@ tokopress
+msgid "Secondary Menu (Below Header) Border Color"
+msgstr ""
+
+#: inc/theme/designs.php:205
+#@ tokopress
+msgid "Secondary Menu (Below Header) Hover Submenu Background"
+msgstr ""
+
+#: inc/theme/options.php:100
+#: inc/theme/options.php:107
+#@ tokopress
+msgid "Favicon"
+msgstr ""
+
+#: inc/theme/plugins.php:174
+#@ tokopress
+msgid "Marketica - Home"
+msgstr ""
+
+#: inc/theme/plugins.php:178
+#@ tokopress
+msgid "Marketica - Plan &amp; Pricing"
+msgstr ""
+
+#: inc/theme/plugins.php:198
+#@ tokopress
+msgid "Marketica - Team Members"
+msgstr ""
+
+#: inc/theme/update.php:16
+#@ tokopress
+msgid "Theme Update"
+msgstr ""
+
+#: inc/theme/update.php:24
+#@ tokopress
+msgid "Theme Update Options"
+msgstr ""
+
+#: inc/theme/update.php:33
+#@ tokopress
+msgid "License Key"
+msgstr ""
+
+#: inc/theme/update.php:37
+#@ tokopress
+msgid "Enter your license key"
+msgstr ""
+
+#: inc/theme/update.php:43
+#@ tokopress
+msgid "Note: If you purchase this theme from ThemeForest, License Key is your Purchase Code."
+msgstr ""
+
+#: inc/theme/update.php:124
+#@ tokopress
+msgid "Updating this parent theme will lose any customizations you have made. Please consider using child theme for modifications. 'Cancel' to stop, 'OK' to update."
+msgstr ""
+
+#: inc/woocommerce/designs.php:86
+#@ tokopress
+msgid "WC - Shop"
+msgstr ""
+
+#: inc/woocommerce/designs.php:267
+#@ tokopress
+msgid "WC - Single Product Page"
+msgstr ""
+
+#: inc/woocommerce/designs.php:352
+#@ tokopress
+msgid "WC - Related Products"
+msgstr ""
+
+#: inc/woocommerce/designs.php:404
+#@ tokopress
+msgid "WC - Up-Sells Products"
+msgstr ""
+
+#: inc/woocommerce/designs.php:456
+#@ tokopress
+msgid "WC - Cross-Sells Products"
+msgstr ""
+
+#: inc/woocommerce/options.php:40
+#@ tokopress
+msgid "Product Catalog Style"
+msgstr ""
+
+#: inc/woocommerce/options.php:46
+#: inc/woocommerce/options.php:138
+#@ tokopress
+msgid "Default Style"
+msgstr ""
+
+#: inc/woocommerce/options.php:47
+#@ tokopress
+msgid "Alternate Style"
+msgstr ""
+
+#: inc/woocommerce/options.php:131
+#@ tokopress
+msgid "Product Image Style"
+msgstr ""
+
+#: inc/woocommerce/options.php:137
+#@ tokopress
+msgid "Slider Style"
+msgstr ""
+
+#: inc/woocommerce/options.php:178
+#@ tokopress
+msgid "WooCommerce - Single Product Item Details"
+msgstr ""
+
+#: inc/theme/plugins.php:250
+#: inc/woocommerce/options.php:183
+#@ tokopress
+msgid "Product SKU"
+msgstr ""
+
+#: inc/woocommerce/options.php:184
+#@ tokopress
+msgid "HIDE product sku"
+msgstr ""
+
+#: inc/woocommerce/options.php:190
+#@ tokopress
+msgid "Product Attributes"
+msgstr ""
+
+#: inc/woocommerce/options.php:191
+#@ tokopress
+msgid "HIDE product attributes"
+msgstr ""
+
+#: inc/woocommerce/options.php:197
+#@ tokopress
+msgid "Product Meta (Categories/Tags)"
+msgstr ""
+
+#: inc/woocommerce/options.php:198
+#@ tokopress
+msgid "HIDE product meta (categories/tags)"
+msgstr ""
+
+#: inc/woocommerce/options.php:204
+#@ tokopress
+msgid "[DEPRECEATED] Global Product Item Details"
+msgstr ""
+
+#: inc/woocommerce/options.php:212
+#@ tokopress
+msgid "[DEPRECEATED] Global Product Item Details Setup"
+msgstr ""
+
+#: inc/woocommerce/options.php:219
+#@ tokopress
+msgid "WooCommerce - Related Products"
+msgstr ""
+
+#: inc/woocommerce/options.php:253
+#@ tokopress
+msgid "WooCommerce - Up-Sells Products"
+msgstr ""
+
+#: inc/woocommerce/options.php:287
+#@ tokopress
+msgid "WooCommerce - Cross-Sells Products"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:38
+#@ tokopress
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/single-product/product-details-attributes.php:25
+#@ tokopress
+msgid "Weight"
+msgstr ""
+
+#: woocommerce/single-product/product-details-attributes.php:29
+#@ tokopress
+msgid "Dimensions"
+msgstr ""
+
+#: woocommerce/single-product/product-details-meta.php:15
+#@ tokopress
+msgid "Category"
+msgid_plural "Categories"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/product-details-meta.php:17
+#@ tokopress
+msgid "Tag"
+msgid_plural "Tags"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/product-details-sku.php:10
+#@ tokopress
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:39
+#@ tokopress
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: block-footer-widget.php:20
+#: block-footer-widget.php:37
+#: block-footer-widget.php:54
+#: block-footer-widget.php:71
+#: functions.php:87
+#: functions.php:98
+#: functions.php:109
+#: functions.php:120
+#, php-format
+#@ tokopress
+msgid "Footer Widget %1$s"
+msgstr ""
+
+#: block-footer-widget.php:22
+#: block-footer-widget.php:39
+#: block-footer-widget.php:56
+#: block-footer-widget.php:73
+#, php-format
+#@ tokopress
+msgid "This is \"%1$s\" widget area. Visit your %2$s to add new widget to this area."
+msgstr ""
+
+#: inc/woocommerce/options.php:205
+#@ tokopress
+msgid "SHOW global product item details. This is Marketica 1.x feature, provided for backward compatibility."
+msgstr ""
+
+#: inc/woocommerce/options.php:213
+#@ tokopress
+msgid "This is Marketica 1.x feature, provided for backward compatibility. Insert your global product item details, separated by new line. It will be available when you edit a product. If you prefer to define it per product, please use WooCommerce Product Attributes instead. <br><br> For example:"
+msgstr ""
+
+#: block-entry-meta.php:21
+#, php-format
+#@ tokopress
+msgid "View all posts in %s"
+msgstr ""
+
+#: block-content-title.php:19
+#: block-page-header-inner.php:19
+#: block-page-header-outer.php:19
+#, php-format
+#@ tokopress
+msgid "Categories: %s"
+msgstr ""
+
+#: block-content-title.php:23
+#: block-page-header-inner.php:23
+#: block-page-header-outer.php:23
+#, php-format
+#@ tokopress
+msgid "Tags: %s"
+msgstr ""
+
+#: inc/woocommerce/functions.php:96
+#, php-format
+#@ tokopress
+msgid "%s vendor plugins (%s) are active. Please use only one of them!"
+msgstr ""
+
+#: inc/woocommerce/functions.php:101
+#, php-format
+#@ tokopress
+msgid "%s plugin is no longer in active development. Please deactivate and replace it with %s plugin!"
+msgstr ""
+
+#: inc/woocommerce/options.php:26
+#: inc/woocommerce/options.php:124
+#@ tokopress
+msgid "Page Header"
+msgstr ""
+
+#: inc/woocommerce/options.php:125
+#@ tokopress
+msgid "HIDE page header"
+msgstr ""
+
+#: inc/woocommerce/options.php:33
+#@ tokopress
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/woocommerce/options.php:34
+#@ tokopress
+msgid "HIDE shop sidebar"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:5
+#@ tokopress
+msgid "WC Vendors"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:25
+#@ tokopress
+msgid "Show Vendor Phone Number"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:22
+#: inc/woocommerce/plugin-dokan.php:34
+#: inc/woocommerce/plugin-dokan.php:51
+#: inc/woocommerce/plugin-dokan.php:63
+#: inc/woocommerce/plugin-dokan.php:75
+#: inc/woocommerce/plugin-dokan.php:92
+#: inc/woocommerce/plugin-sociovendors.php:22
+#: inc/woocommerce/plugin-sociovendors.php:34
+#: inc/woocommerce/plugin-sociovendors.php:51
+#: inc/woocommerce/plugin-sociovendors.php:63
+#: inc/woocommerce/plugin-sociovendors.php:80
+#: inc/woocommerce/plugin-wcvendors.php:18
+#: inc/woocommerce/plugin-wcvendors.php:31
+#: inc/woocommerce/plugin-wcvendors.php:44
+#: inc/woocommerce/plugin-wcvendors.php:57
+#: inc/woocommerce/plugin-wcvendors.php:76
+#: inc/woocommerce/plugin-wcvendors.php:88
+#: inc/woocommerce/plugin-wcvendors.php:100
+#: inc/woocommerce/plugin-wcvendors.php:112
+#: inc/woocommerce/plugin-wcvendors.php:128
+#: inc/woocommerce/plugin-wcvendors.php:140
+#: inc/woocommerce/plugin-wcvendors.php:152
+#: inc/woocommerce/plugin-wcvendors.php:165
+#: inc/woocommerce/plugin-wcvendors.php:177
+#: inc/woocommerce/plugin-wcvendors.php:189
+#: inc/woocommerce/plugin-wcvendors.php:206
+#: inc/woocommerce/plugin-woovendors.php:22
+#: inc/woocommerce/plugin-woovendors.php:34
+#: inc/woocommerce/plugin-woovendors.php:51
+#: inc/woocommerce/plugin-woovendors.php:63
+#: inc/woocommerce/plugin-woovendors.php:80
+#@ tokopress
+msgid "No"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:21
+#: inc/woocommerce/plugin-dokan.php:33
+#: inc/woocommerce/plugin-dokan.php:50
+#: inc/woocommerce/plugin-dokan.php:62
+#: inc/woocommerce/plugin-dokan.php:74
+#: inc/woocommerce/plugin-dokan.php:91
+#: inc/woocommerce/plugin-sociovendors.php:21
+#: inc/woocommerce/plugin-sociovendors.php:33
+#: inc/woocommerce/plugin-sociovendors.php:50
+#: inc/woocommerce/plugin-sociovendors.php:62
+#: inc/woocommerce/plugin-sociovendors.php:79
+#: inc/woocommerce/plugin-wcvendors.php:17
+#: inc/woocommerce/plugin-wcvendors.php:32
+#: inc/woocommerce/plugin-wcvendors.php:45
+#: inc/woocommerce/plugin-wcvendors.php:58
+#: inc/woocommerce/plugin-wcvendors.php:75
+#: inc/woocommerce/plugin-wcvendors.php:87
+#: inc/woocommerce/plugin-wcvendors.php:99
+#: inc/woocommerce/plugin-wcvendors.php:111
+#: inc/woocommerce/plugin-wcvendors.php:129
+#: inc/woocommerce/plugin-wcvendors.php:141
+#: inc/woocommerce/plugin-wcvendors.php:153
+#: inc/woocommerce/plugin-wcvendors.php:164
+#: inc/woocommerce/plugin-wcvendors.php:176
+#: inc/woocommerce/plugin-wcvendors.php:188
+#: inc/woocommerce/plugin-wcvendors.php:205
+#: inc/woocommerce/plugin-woovendors.php:21
+#: inc/woocommerce/plugin-woovendors.php:33
+#: inc/woocommerce/plugin-woovendors.php:50
+#: inc/woocommerce/plugin-woovendors.php:62
+#: inc/woocommerce/plugin-woovendors.php:79
+#@ tokopress
+msgid "Yes"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:19
+#: inc/woocommerce/plugin-wcvendors.php:33
+#: inc/woocommerce/plugin-wcvendors.php:46
+#: inc/woocommerce/plugin-wcvendors.php:59
+#@ tokopress
+msgid "Logged In Only"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:38
+#@ tokopress
+msgid "Show Vendor Email"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:51
+#@ tokopress
+msgid "Show Vendor URL"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:64
+#@ tokopress
+msgid "WC Vendors - Shop Page"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:15
+#: inc/woocommerce/plugin-sociovendors.php:15
+#: inc/woocommerce/plugin-wcvendors.php:69
+#: inc/woocommerce/plugin-woovendors.php:15
+#@ tokopress
+msgid "Vendor Description on Top of Shop Page"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:93
+#: inc/woocommerce/plugin-wcvendors.php:146
+#@ tokopress
+msgid "Show Social and Contact Info in Vendor Description"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:27
+#: inc/woocommerce/plugin-sociovendors.php:27
+#: inc/woocommerce/plugin-wcvendors.php:105
+#: inc/woocommerce/plugin-woovendors.php:27
+#@ tokopress
+msgid "\"Sold by\" at Product List"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:117
+#@ tokopress
+msgid "WC Vendors - Single Product Page"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:122
+#@ tokopress
+msgid "Vendor Description on Top of Single Product Page"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:44
+#: inc/woocommerce/plugin-wcvendors.php:158
+#@ tokopress
+msgid "\"Seller Info\" at Product Tab"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:56
+#: inc/woocommerce/plugin-sociovendors.php:44
+#: inc/woocommerce/plugin-wcvendors.php:170
+#: inc/woocommerce/plugin-woovendors.php:44
+#@ tokopress
+msgid "\"More From This Seller\" Products"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:68
+#: inc/woocommerce/plugin-sociovendors.php:56
+#: inc/woocommerce/plugin-wcvendors.php:182
+#: inc/woocommerce/plugin-woovendors.php:56
+#@ tokopress
+msgid "\"Sold by\" at Product Meta"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:194
+#@ tokopress
+msgid "WC Vendors - Cart Page"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:85
+#: inc/woocommerce/plugin-sociovendors.php:73
+#: inc/woocommerce/plugin-wcvendors.php:199
+#: inc/woocommerce/plugin-woovendors.php:73
+#@ tokopress
+msgid "\"Sold by\" at Cart page"
+msgstr ""
+
+#: dokan/store-reviews.php:37
+#@ tokopress
+msgid "Seller Review"
+msgstr ""
+
+#: dokan/store-reviews.php:61
+#, php-format
+#@ tokopress
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: dokan/store.php:53
+#@ tokopress
+msgid "No products were found of this seller!"
+msgstr ""
+
+#: functions.php:191
+#@ tokopress
+msgid "Instagram Profile URL"
+msgstr ""
+
+#: functions.php:192
+#@ tokopress
+msgid "Linkedin Profile URL"
+msgstr ""
+
+#: functions.php:193
+#@ tokopress
+msgid "Youtube Profile URL"
+msgstr ""
+
+#: functions.php:195
+#@ tokopress
+msgid "Flickr Profile URL"
+msgstr ""
+
+#: inc/customizer/customizer-fonts.php:20
+#@ tokopress
+msgid "Standard Fonts"
+msgstr ""
+
+#: inc/customizer/customizer-fonts.php:22
+#@ tokopress
+msgid "Google Fonts"
+msgstr ""
+
+#: inc/customizer/customizer-fonts.php:127
+#@ tokopress
+msgid "All"
+msgstr ""
+
+#: inc/customizer/customizer-fonts.php:128
+#@ tokopress
+msgid "Cyrillic"
+msgstr ""
+
+#: inc/customizer/customizer-fonts.php:129
+#@ tokopress
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: inc/customizer/customizer-fonts.php:130
+#@ tokopress
+msgid "Devanagari"
+msgstr ""
+
+#: inc/customizer/customizer-fonts.php:131
+#@ tokopress
+msgid "Greek"
+msgstr ""
+
+#: inc/customizer/customizer-fonts.php:132
+#@ tokopress
+msgid "Greek Extended"
+msgstr ""
+
+#: inc/customizer/customizer-fonts.php:133
+#@ tokopress
+msgid "Khmer"
+msgstr ""
+
+#: inc/customizer/customizer-fonts.php:134
+#@ tokopress
+msgid "Latin"
+msgstr ""
+
+#: inc/customizer/customizer-fonts.php:135
+#@ tokopress
+msgid "Latin Extended"
+msgstr ""
+
+#: inc/customizer/customizer-fonts.php:136
+#@ tokopress
+msgid "Vietnamese"
+msgstr ""
+
+#: inc/customizer/customizer-fonts.php:196
+#@ tokopress
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: inc/customizer/customizer-fonts.php:200
+#@ tokopress
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: inc/customizer/customizer-fonts.php:204
+#@ tokopress
+msgctxt "font style"
+msgid "Monospaced"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2684
+#@ tokopress
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/theme/designs.php:41
+#@ tokopress
+msgid "Fonts"
+msgstr ""
+
+#: inc/theme/designs.php:52
+#@ tokopress
+msgid "Primary Font"
+msgstr ""
+
+#: inc/theme/designs.php:62
+#@ tokopress
+msgid "Secondary Font"
+msgstr ""
+
+#: inc/theme/options.php:114
+#: inc/theme/options.php:119
+#@ tokopress
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/theme/options.php:120
+#@ tokopress
+msgid "ENABLE sticky header"
+msgstr ""
+
+#: inc/theme/options.php:162
+#@ tokopress
+msgid "Page Header Section"
+msgstr ""
+
+#: inc/theme/options.php:167
+#@ tokopress
+msgid "Page Header Style"
+msgstr ""
+
+#: inc/woocommerce/functions.php:61
+#: inc/woocommerce/functions.php:130
+#, php-format
+#@ tokopress
+msgid "\"%s\" page not set"
+msgstr ""
+
+#: inc/woocommerce/functions.php:69
+#: inc/woocommerce/functions.php:138
+#, php-format
+#@ tokopress
+msgid "\"%s\" page does not exist"
+msgstr ""
+
+#: inc/woocommerce/functions.php:74
+#: inc/woocommerce/functions.php:143
+#, php-format
+#@ tokopress
+msgid "\"%s\" page does not contain the shortcode: <code>%s</code>"
+msgstr ""
+
+#: inc/woocommerce/options.php:27
+#@ tokopress
+msgid "HIDE page header on the main shop page"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:81
+#: inc/woocommerce/plugin-wcvendors.php:134
+#@ tokopress
+msgid "Show Vendor Avatar in Vendor Description"
+msgstr ""
+
+#: sidebar-dokan.php:33
+#@ tokopress
+msgid "Store Category"
+msgstr ""
+
+#: sidebar-dokan.php:36
+#@ tokopress
+msgid "Store Location"
+msgstr ""
+
+#: sidebar-dokan.php:40
+#@ tokopress
+msgid "Contact Seller"
+msgstr ""
+
+#: wc-vendors/block-nav-pro.php:40
+#: wc-vendors/dashboard/settings/settings.php:1
+#@ tokopress
+msgid "Settings"
+msgstr ""
+
+#: wc-vendors/dashboard/settings/settings.php:47
+#@ tokopress
+msgid "Save"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:212
+#@ tokopress
+msgid "WC Vendors - Frontend Submission"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:216
+#@ tokopress
+msgid "Frontend Submission Page"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:237
+#@ tokopress
+msgid "-- None --"
+msgstr ""
+
+#: inc/theme/plugins.php:213
+#@ tokopress
+msgid "WooCommerce - Frontend Submission"
+msgstr ""
+
+#: inc/theme/plugins.php:222
+#@ tokopress
+msgid "Visibility"
+msgstr ""
+
+#: inc/theme/plugins.php:223
+#@ tokopress
+msgid "Vendor: only vendor can see frontend submission form"
+msgstr ""
+
+#: inc/theme/plugins.php:223
+#@ tokopress
+msgid "User: all logged-in users can see frontend submission form"
+msgstr ""
+
+#: inc/theme/plugins.php:223
+#@ tokopress
+msgid "All: everyone can see frontend submission form"
+msgstr ""
+
+#: inc/theme/plugins.php:236
+#@ tokopress
+msgid "Product Type"
+msgstr ""
+
+#: dokan/store-toc.php:28
+#@ tokopress
+msgid "Terms And Conditions"
+msgstr ""
+
+#: inc/theme/designs.php:28
+#@ tokopress
+msgid "Customize your header sections"
+msgstr ""
+
+#: inc/theme/designs.php:290
+#@ tokopress
+msgid "Content"
+msgstr ""
+
+#: inc/theme/designs.php:291
+#@ tokopress
+msgid "Customize your content sections"
+msgstr ""
+
+#: inc/theme/designs.php:304
+#@ tokopress
+msgid "General"
+msgstr ""
+
+#: inc/theme/designs.php:316
+#@ tokopress
+msgid "Section Title"
+msgstr ""
+
+#: inc/theme/designs.php:322
+#@ tokopress
+msgid "Widget"
+msgstr ""
+
+#: inc/theme/designs.php:328
+#@ tokopress
+msgid "Pagination"
+msgstr ""
+
+#: inc/theme/designs.php:334
+#@ tokopress
+msgid "Table"
+msgstr ""
+
+#: inc/theme/designs.php:347
+#@ tokopress
+msgid "Body Text Color"
+msgstr ""
+
+#: inc/theme/designs.php:357
+#@ tokopress
+msgid "Link Color"
+msgstr ""
+
+#: inc/theme/designs.php:367
+#@ tokopress
+msgid "Blog Title Color"
+msgstr ""
+
+#: inc/theme/designs.php:377
+#@ tokopress
+msgid "Blog Meta Color"
+msgstr ""
+
+#: inc/theme/designs.php:387
+#@ tokopress
+msgid "Blog Meta Link Color"
+msgstr ""
+
+#: inc/theme/designs.php:397
+#@ tokopress
+msgid "Section Title Color"
+msgstr ""
+
+#: inc/theme/designs.php:407
+#@ tokopress
+msgid "Section Title Icon Color"
+msgstr ""
+
+#: inc/theme/designs.php:417
+#@ tokopress
+msgid "Widget Title Color"
+msgstr ""
+
+#: inc/theme/designs.php:427
+#@ tokopress
+msgid "Statistic Widget - Number Color"
+msgstr ""
+
+#: inc/theme/designs.php:437
+#@ tokopress
+msgid "Pagination - Link Color"
+msgstr ""
+
+#: inc/theme/designs.php:447
+#@ tokopress
+msgid "Pagination - Active Color"
+msgstr ""
+
+#: inc/theme/designs.php:457
+#@ tokopress
+msgid "Table Heading Background Color"
+msgstr ""
+
+#: inc/theme/designs.php:488
+#@ tokopress
+msgid "Customize your footer sections"
+msgstr ""
+
+#: inc/theme/designs.php:639
+#@ tokopress
+msgid "Back To Top"
+msgstr ""
+
+#: inc/theme/designs.php:652
+#@ tokopress
+msgid "Back To Top Background"
+msgstr ""
+
+#: inc/theme/designs.php:663
+#@ tokopress
+msgid "Back To Top Icon Color"
+msgstr ""
+
+#: inc/theme/options.php:102
+#, php-format
+#@ tokopress
+msgid "Go to <a href=\"%s\">Appearance - Customize - Site Identity</a> to customize Favicon (Site Icon)."
+msgstr ""
+
+#: inc/widget/widget_statistic.php:59
+#@ tokopress
+msgid "Marketplace Sellers"
+msgstr ""
+
+#: inc/woocommerce/designs.php:15
+#@ tokopress
+msgid "Customize your woocommerce sections"
+msgstr ""
+
+#: inc/woocommerce/designs.php:28
+#@ tokopress
+msgid "WC - Buttons"
+msgstr ""
+
+#: inc/woocommerce/designs.php:41
+#@ tokopress
+msgid "Button (Default)"
+msgstr ""
+
+#: inc/woocommerce/designs.php:52
+#@ tokopress
+msgid "Button Alt (Primary)"
+msgstr ""
+
+#: inc/woocommerce/designs.php:217
+#@ tokopress
+msgid "Product Price Border Color"
+msgstr ""
+
+#: inc/woocommerce/designs.php:250
+#: inc/woocommerce/designs.php:292
+#@ tokopress
+msgid "Product Rating Color (Filled)"
+msgstr ""
+
+#: inc/woocommerce/designs.php:314
+#@ tokopress
+msgid "Product Regular Price Color"
+msgstr ""
+
+#: inc/woocommerce/designs.php:325
+#@ tokopress
+msgid "Product Gallery Arrow Background Color"
+msgstr ""
+
+#: inc/woocommerce/designs.php:335
+#@ tokopress
+msgid "Product Gallery Arrow Color"
+msgstr ""
+
+#: functions.php:194
+#@ tokopress
+msgid "Pinterest Profile URL"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:348
+#, php-format
+#@ tokopress
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:358
+#, php-format
+#@ tokopress
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:363
+#, php-format
+#@ tokopress
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:378
+#, php-format
+#@ tokopress
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:401
+#, php-format
+#@ tokopress
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:402
+#, php-format
+#@ tokopress
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:405
+#@ tokopress
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:520
+#@ tokopress
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:521
+#@ tokopress
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:635
+#@ tokopress
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:936
+#@ tokopress
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:936
+#: inc/tgm/class-tgm-plugin-activation.php:939
+#@ tokopress
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:939
+#@ tokopress
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1117
+#: inc/tgm/class-tgm-plugin-activation.php:2829
+#@ tokopress
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1882
+#, php-format
+#@ tokopress
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2190
+#@ tokopress
+msgid "External Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2222
+#@ tokopress
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2225
+#@ tokopress
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2228
+#@ tokopress
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2236
+#, php-format
+#@ tokopress
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2281
+#, php-format
+#@ tokopress
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2284
+#, php-format
+#@ tokopress
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2287
+#, php-format
+#@ tokopress
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2290
+#, php-format
+#@ tokopress
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2372
+#@ tokopress
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2380
+#@ tokopress
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2388
+#@ tokopress
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2400
+#@ tokopress
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2423
+#, php-format
+#@ tokopress
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2443
+#@ tokopress
+msgid "Version"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2492
+#, php-format
+#@ tokopress
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2496
+#, php-format
+#@ tokopress
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2501
+#, php-format
+#@ tokopress
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2571
+#@ tokopress
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2644
+#@ tokopress
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2646
+#@ tokopress
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2789
+#@ tokopress
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3363
+#, php-format
+#@ tokopress
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/theme/plugins.php:261
+#@ tokopress
+msgid "Product Status"
+msgstr ""
+
+#: inc/widget/widget_social.php:220
+#@ tokopress
+msgid "Youtube Channel:"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:5
+#@ tokopress
+msgid "Dokan"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:10
+#@ tokopress
+msgid "Dokan - Shop Page"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:39
+#@ tokopress
+msgid "Dokan - Single Product Page"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:80
+#@ tokopress
+msgid "Dokan - Cart Page"
+msgstr ""
+
+#: inc/woocommerce/plugin-dokan.php:142
+#: inc/woocommerce/plugin-dokan.php:163
+#: inc/woocommerce/plugin-sociovendors.php:102
+#: inc/woocommerce/plugin-sociovendors.php:116
+#: inc/woocommerce/plugin-sociovendors.php:126
+#: inc/woocommerce/plugin-woovendors.php:102
+#: inc/woocommerce/plugin-woovendors.php:116
+#: inc/woocommerce/plugin-woovendors.php:126
+#@ tokopress
+msgid "sold by"
+msgstr ""
+
+#: inc/woocommerce/plugin-sociovendors.php:5
+#@ tokopress
+msgid "SocioVendors"
+msgstr ""
+
+#: inc/woocommerce/plugin-sociovendors.php:10
+#@ tokopress
+msgid "SocioVendors - Shop Page"
+msgstr ""
+
+#: inc/woocommerce/plugin-sociovendors.php:39
+#@ tokopress
+msgid "SocioVendors - Single Product Page"
+msgstr ""
+
+#: inc/woocommerce/plugin-sociovendors.php:68
+#@ tokopress
+msgid "SocioVendors - Cart Page"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:11
+#@ tokopress
+msgid "Show Vendor Address"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:402
+#@ tokopress
+msgid "Store Banner"
+msgstr ""
+
+#: inc/woocommerce/plugin-wcvendors.php:463
+#@ tokopress
+msgid "Store Icon"
+msgstr ""
+
+#: inc/woocommerce/plugin-woovendors.php:5
+#@ tokopress
+msgid "WooVendors"
+msgstr ""
+
+#: inc/woocommerce/plugin-woovendors.php:10
+#@ tokopress
+msgid "WooVendors - Shop Page"
+msgstr ""
+
+#: inc/woocommerce/plugin-woovendors.php:39
+#@ tokopress
+msgid "WooVendors - Single Product Page"
+msgstr ""
+
+#: inc/woocommerce/plugin-woovendors.php:68
+#@ tokopress
+msgid "WooVendors - Cart Page"
+msgstr ""
+
+#: wc-vendors/block-nav-pro.php:17
+#@ tokopress
+msgid "Dashboard"
+msgstr ""
+
+#: wc-vendors/block-nav-pro.php:25
+#@ tokopress
+msgid "Products"
+msgstr ""
+
+#: wc-vendors/block-nav-pro.php:33
+#@ tokopress
+msgid "Orders"
+msgstr ""
+
+#: wc-vendors/block-nav-pro.php:47
+#@ tokopress
+msgid "Ratings"
+msgstr ""
+
+#: wc-vendors/block-nav-pro.php:55
+#@ tokopress
+msgid "Coupons"
+msgstr ""
+
+#: wc-vendors/block-nav-pro.php:63
+#@ tokopress
+msgid "View Store"
+msgstr ""
+
+#: wc-vendors/store/store-ratings.php:28
+#@ tokopress
+msgid "Customer Ratings"
+msgstr ""
+
+#: wc-vendors/store/store-ratings.php:64
+#@ tokopress
+msgid "No ratings have been submitted for this vendor yet."
+msgstr ""
+

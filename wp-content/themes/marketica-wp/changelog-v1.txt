@@ -1,0 +1,50 @@
+1.3
+- fix customizer minor bugs
+- add vendor navigation (wc vendor plugin)
+- fix vendor frontend
+- fix cart issue
+- fix menu naming issue
+- fix frontend single product
+- fix catalog mode option issue
+- add header and footer script options
+
+1.2
+- fix bugs after intall theme
+- fix comments issue
+- tested functionally for WC Product Vendors Plugin
+
+1.1
+- translation ready
+- add option for redirect page after customer login
+- add link to product title
+- fix minor bugs
+
+1.0.5
+- minor bugs in catalog products style 2
+- disable visual composer updater style
+- update woocommerce overide template version
+
+1.0.4
+- Tested for Product Vendor (MGates)
+- Fix catalog product issue
+- Fix header menu issue
+- Update Visual Composer Plugin Version 4.3.4
+
+1.0.3
+- Fix register form for product vendor
+- Add recommended plugins "YITH Woocommerce Wishlist and Shareholic"
+- tested for YITH Woocommerce Wishlist and Shareholic Plugins
+
+1.0.2
+- add option for product vendor
+- add support for woocommerce-product-vendor plugin
+- tested for woocommerce-product-vendor plugin
+- fix widget statistic issue
+- update documentation
+
+1.0.1
+- Fix top navigation issue
+- Fix WooCommerce page padding issue
+
+1.0
+- Initial released

@@ -1,0 +1,177 @@
+3.0.4
+added: option to choose 5 product columns on Shop page
+fixed: Dokan - product columns issue on vendor store page
+fixed: Dokan - rare bug on vendor store page
+
+3.0.3
+added: option to change add-to-cart button background on single product page
+added: option to change checkout button background on cart page
+added: option to change payment button background on checkout page
+added: compatible with Mailchimp Pro plugin
+updated: Visual Composer 4.11.1
+fixed: minor responsive issue on single product page
+
+3.0.2
+added: option for bigger logo (30px, 60px, 90px height) via Appearance - Theme Options - Header
+added: support for 5 product columns (previously max 4 columns)
+added: Dokan - Show/hide "sold by" on product list, single product, and cart page
+added: Dokan - "More Products By Seller" section on single product
+added: WC Vendors Pro - full support, similar with WC Vendors free version
+added: SocioVendors - Show/hide "sold by" on product list, single product, and cart page
+added: SocioVendors - "More Products By Seller" section on single product
+added: SocioVendors - Store Header
+added: Woo Product Vendors - Show/hide "sold by" on product list, single product, and cart page
+added: Woo Product Vendors - "More Products By Seller" section on single product
+added: Woo Product Vendors - Store Header
+added: Pinterest Profile URL
+added: Youtube Channel option on Social widget
+updated: better layout, bigger sidebar for Single Product page
+updated: better layout on Cart page
+updated: better product column class handle
+updated: FontAwesome 4.5.0
+updated: Visual Composer 4.10
+updated: TGMPA 2.5.2
+updated: comment form for WordPress 4.4
+fixed: WC Vendors - mini vendors thumbnail issue
+fixed: Dokan - mini vendors thumbnail issue
+
+2.7.1
+added: compatible with WooCommerce 2.5
+
+2.7
+added: compatible with WordPress 4.4
+added: compatible with WC Vendors Pro
+added: compatible with Dokan 2.4.8 
+added: compatible with Dokan Stripe Connect
+added: Youtube channel option on social widget
+updated: Visual Composer 4.9.1
+
+2.6.1
+updated: Visual Composer 4.7.4
+
+2.6
+updated: Revolution Slider 5.0.9
+updated: Visual Composer 4.7.2
+added: compatible with WC Smart Coupons addon
+added: compatible with GravityForms Product addon
+added: compatible with Composite Product addon
+added: now we use default logo text
+fixed: iconpicker issue on Visual Composer 4.7
+fixed: customizer issue on account submenu color
+fixed: product column issue on Visual Composer addon
+fixed: top level product category issue on Visual Composer - WC Categories
+
+2.5.2
+updated: contact form can't send email issue on some hosting
+fixed: Zoomed product image on single product page when product image is small
+       (this is because WooCommerce apply width 100% to the product image)
+fixed: Dokan 2.4 - Store Review bug
+
+2.5.1
+added: Visual Composer - WC Frontend Submission, post status parameter (pending,publish,draft)
+updated: Visual Composer 4.6.2
+fixed: product image slider disappear
+fixed: Visual Composer - WC Featured - carousel issue
+fixed: Visual Composer - WC Products - product catalog style option
+
+2.5
+added: Dokan 2.4 compatibility
+added: Dokan 2.4 - support Dokan seller TOC page
+added: Dokan 2.4 - styling for Dokan shipping calculator
+added: submenu indicator on header menu
+added: touch device friendly header menu 
+added: styling for map marker on contact page template
+added: Customizer - option to change some colors, via Appearance - Customize - Content panel
+added: Customizer - option to change WC button colors, via Appearance - Customize - WooCommerce - WC Buttons
+added: Visual Composer - Heading - option to change title color&background, icon color
+added: Visual Composer - Divider - option to change icon color
+added: Visual Composer - Plan&Pricing - option to change featured plan background color
+added: Visual Composer - WC Featured - option to change title color&background, icon color, link color
+added: Visual Composer - WC Products - option to change title color&background, icon color, link color
+added: Visual Composer - WC Categories - option to change title color&background, icon color
+added: Visual Composer - WC Mini Products - option to change title color&background, icon color
+added: Visual Composer - WC Mini Vendors - option to change title color&background, icon color
+added: Visual Composer - WC Search - option to change color&background, icon color
+updated: use WP4.3 Site Icon feature to replace favicon uploader
+updated: WooCommerce 2.4 compatibility
+updated: use OwlCarousel2 for image gallery
+updated: Slidebar 1.0.2 and use push style for Slidebar menu
+updated: header account menu use hover for dropdown
+updated: improvement on responsive Cart page
+fixed: VC product categories issue, show all categories
+fixed: inconsistent behavior on header search
+
+2.4.3
+fixed: frontend submission style issue, it is bug on the latest CMB2 plugin
+fixed: Dokan - store address is not displayed properly on store header
+updated: Dokan - subcategory style on product categories widget
+
+2.4.2
+fixed: missing include file in customizer
+
+2.4.1
+fixed: [IMPORTANT] bring 2.3 changes to v2.4, our git issue made v2.3 changes were not captured on v2.4
+added: https support for Google Fonts
+added: show number of vendors / sellers on Statistic widget (if there are minimum 3 vendors/sellers)
+added: Dokan - Store List style
+
+2.4
+updated: Visual Composer 4.5.3, addressing PrettyPhoto security issue
+updated: Revolution Slider 4.6.93
+fixed: Google Plus wrong url on Social widget
+fixed: some minor issue
+
+2.3
+added: WC Frontend Submission – now support standard woocommerce, WC Vendors, Dokan (alternative)
+added: WC Frontend Submission – visibility option (vendor, user, all)
+added: WC Frontend Submission – product type option (physical, virtual, digital, external)
+added: WC Frondend Submission – product sku option (show/hide)
+added: WC Frondend Submission – element for Visual Composer
+fixed: Visual Composer – product column issue on default WooCommerce VC elements
+fixed: Dokan – frontend issue when WC Vendors is also activated
+
+2.2
+added: two different option for Page Header style
+added: Product Categories visual composer element
+added: ability to show/hide sticky header
+added: Dokan - fully compatible now
+added: Dokan - Mini Vendor visual composer element
+added: WC Vendors - basic Frontend Submission
+added: WC Vendors - new Vendor page style with banner support
+added: WC Vendors - Mini Vendor visual composer element
+improved: TGMPA update
+improved: smooth sticky header
+improved: more social media profile (instagram, linkedin, youtube, flickr)
+improved: remove plan&pricing on Homepage VC Template (misleading)
+fixed: possible security issue with add_query_arg
+fixed: some minor responsive issues
+fixed: some minor javascript issues
+
+2.1
+added: option to hide sidebar on shop page
+added: option to hide page header on shop page
+added: option to hide page header on single product page
+added: show archive description when it is available
+added: WC Vendors - option to show vendor phone number
+added: WC Vendors - option to show vendor email
+added: WC Vendors - option to show vendor website
+added: WC Vendors - option to show/hide vendor description on shop page
+added: WC Vendors - option to show/hide sold by info on shop page
+added: WC Vendors - option to show/hide vendor description on single product page
+added: WC Vendors - option to show/hide seller info on single product page
+added: WC Vendors - option to show/hide more products by seller on single product page
+added: WC Vendors - option to show/hide sold by meta on single product page
+improved: complete option for WC Featured Products VC element
+improved: complete option for WC Products VC element
+improved: complete option for WC Mini Products VC element
+improved: more WooCommerce 2.3 styling
+improved: remove some WP_DEBUG warning messages
+fixed: show catalog ordering on product category and tag page
+fixed: show/hide elements on alternate style of shop catalog
+fixed: featured image doesn't show in single product image slider when no gallery
+fixed: catalog button for no price / sold out products
+fixed: TGMPA_Bulk_Installer issue
+fixed: rare bug - invalid woocommerce columns
+
+2.0
+too much to write...
